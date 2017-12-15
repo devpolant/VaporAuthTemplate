@@ -26,5 +26,5 @@
 
 You can easy install it by:
 > ```
-> vapor new project-name --template=polant/VaporAuthTemplate
+> vapor new project-name --template=AntonPoltoratskyi/VaporAuthTemplate
 > ```
